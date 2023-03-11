@@ -4,5 +4,7 @@ public class otherHelloWorld {
         System.out.println("Hello World!");
         int a = 2+3;
         System.out.println(a);
+        System.out.println(a);
+
     }
 }
